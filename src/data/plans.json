@@ -1,0 +1,15 @@
+[
+  {
+    "id": "plan-none",
+    "name": "No Monthly Plan",
+    "price": 0,
+    "billingPeriod": "mo"
+  },
+  {
+    "id": "plan-unlimited",
+    "name": "Cam Unlimited",
+    "comparePrice": 12.99,
+    "price": 9.99,
+    "billingPeriod": "mo"
+  }
+]
